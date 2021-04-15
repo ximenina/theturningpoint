@@ -8,4 +8,4 @@ The folder `Correlations/` contains a summary of the measures reported in the ar
 
 The folder `Detailed/` contains scripts, corpus and detailed results per each language. 
 
-The folder `Media/` contains slides and a poste of the article. 
+The folder `Media/` contains slides and a poster of the article. 
