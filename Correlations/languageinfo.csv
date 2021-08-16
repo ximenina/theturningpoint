@@ -1,0 +1,48 @@
+id,language,family,genus,wsystem,script
+aey,Amele,Trans-New Guinea ,Madang,Alphabetic,Latn
+amp,Alamblak,Sepik ,Sepik Hill,Alphabetic,Latn
+ape,Bukiyip,Torricelli,Kombio-Arapesh,Alphabetic,Latn
+apu,Apurinã,Arawakan ,Purus,Alphabetic,Latn
+arn,Mapudungun,Araucanian,Araucanian,Alphabetic,Latn
+arz,Egyptian Arabic,Afro-Asiatic,Semitic,Abjad,Arab
+bsn,Barasana-Eduria,Tucanoan,Tucanoan,Alphabetic,Latn
+cha,Chamorro,Austronesian,Chamorro,Alphabetic,Latn
+deu,German,Indo-European,Germanic,Alphabetic,Latn
+dgz,Daga,Dagan,Dagan,Alphabetic,Latn
+ell,Modern Greek,Indo-European,Greek,Alphabetic,Grek
+eng,English,Indo-European,Germanic,Alphabetic,Latn
+eus,Basque,Basque,Basque,Alphabetic,Latn
+fij,Fijian,Austronesian,Oceanic,Alphabetic,Latn
+fin,Finnish,Uralic,Finnic,Alphabetic,Latn
+fra,French,Indo-European,Romance,Alphabetic,Latn
+gug,Paraguayan Guaraní,Pama-Nyungan,Western Pama-Nyungan,Alphabetic,Latn
+hae,Eastern Oromo,Afro-Asiatic,Lowland East Cushitic,Alphabetic,Latn
+hau,Hausa,Afro-Asiatic,West Chadic,Alphabetic,Latn
+hin,Hindi,Indo-European,Indic,Abugida,Deva
+ind,Indonesian,Austronesian,Malayo-Sumbawan,Alphabetic,Latn
+jac,Popti',Mayan,Mayan,Alphabetic,Latn
+kal,Kalaallisut,Eskimo-Aleut,Eskimo,Alphabetic,Latn
+kat,Georgian,Kartvelian,Kartvelian,Alphabetic,Geor
+kew,West Kewa,Trans-New Guinea ,Engan,Alphabetic,Latn
+khk,Halh Mongolian,Altaic,Mongolic,Alphabetic,Cyrl
+kor,Korean,Korean,Korean,Featural,Kore
+laj,Lango (Uganda),Eastern Sudanic,Nilotic,Alphabetic,Latn
+mig,San Miguel El Grande Mixtec,Oto-Manguean,Mixtecan,Alphabetic,Latn
+mya,Burmese,Sino-Tibetan,Burmese-Lolo,Abugida,Mymr
+mzh,Wichí Lhamtés Güisnay,Matacoan,Matacoan,Alphabetic,Latn
+naq,Nama (Namibia),Khoe-Kwadi,Khoe-Kwadi,Alphabetic,Latn
+pes,Western Farsi,Indo-European,Iranian,Abugida,Arab
+plt,Plateau Malagasy,Austronesian,Barito,Alphabetic,Latn
+qvi,Imbabura Highland Quichua,Quechuan,Quechuan,Alphabetic,Latn
+rus,Russian,Indo-European,Slavic,Alphabetic,Cyrl
+sag,Sango,Niger-Congo,Ubangi,Alphabetic,Latn
+spa,Spanish,Indo-European,Romance,Alphabetic,Latn
+swh,Swahili,Niger-Congo,Bantoid,Alphabetic,Latn
+tgl,Tagalog,Austronesian,Greater Central Philippine,Alphabetic,Latn
+tha,Thai,Tai-Kadai,Kam-Tai,Abugida,Thai
+tur,Turkish,Altaic,Turkic,Alphabetic,Latn
+vie,Vietnamese,Austro-Asiatic,Viet-Muong,Alphabetic,Latn
+xsu,Sanumá,Yanomam,Yanomam,Alphabetic,Latn
+yad,Yagua,Peba-Yaguan,Peba-Yaguan,Alphabetic,Latn
+yaq,Yaqui,Uto-Aztecan,Cahita,Alphabetic,Latn
+yor,Yoruba,Niger-Congo,Defoid,Alphabetic,Latn
